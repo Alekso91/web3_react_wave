@@ -5,6 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: white
+}
+
+.dataContainer{
+  background-color: whitesmoke;
+  border: solid;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.waveButton{
+  background-color: lightgrey;
 }
 
 code {
